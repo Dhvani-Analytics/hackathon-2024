@@ -29,7 +29,7 @@ Write an algorithm that will detect the defect in the images given below. Breaku
 
 <img src=dataset1/defect2.png width="20%" height="20%"> <img src=dataset1/defect3.png width="20%" height="20%">
 
-* Refer dataset 1 folder
+* [dataset](https://github.com/Dhvani-Analytics/hackathon-2024/tree/a4f204e8f76f472631d2f9d2902931937f3e0f63/dataset2)
 
 ## Problem:2 
 In manufacturing companies the production lines are optimised for creating good samples while defective samples are very hard to generate and will happen only once in a while. To adress this issue we have to develop quality inspection system from golden samples. In this problem we have given a train dataset of a screw where good samples conists of 2 screws of different length and 4 nuts. Design a anomaly model which can detect both logical and structural changes in the data
