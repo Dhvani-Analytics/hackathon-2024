@@ -1,5 +1,5 @@
 # Hackathon- computer vision
-Welcome to our Hackathon-2023. Through this hackathon we are trying to select interns have passion to work in computer vision and deep learning. You can select either C++/Python to solve these coding assignments. Best of luck everyone  
+Welcome to our Hackathon-2024. Through this hackathon we are trying to select interns have passion to work in computer vision and deep learning. You can select either C++/Python to solve these coding assignments. Best of luck everyone  
 
 * Use issues to ask any queries 
 
