@@ -38,7 +38,7 @@ In manufacturing companies the production lines are optimised for creating good 
 * Refer the datset2 folder 
 
 ## Problem 3 
- A footwear company requires to detect the size mismatch of the their pair of footwear(that is sometimes the operator will place two different sizes as a pair ). Select a method to solve this poroblem. The dataset is given as [dataset](https://dhvani365-my.sharepoint.com/:f:/g/personal/nithin_v_dhvaniai_com/EvY9yo7sFJxMpconseQHcJ4B1HUHReaLYtmeHwF6orIXnQ?e=VwqeqA)
+ A footwear company requires to detect the size mismatch of the their pair of footwear(that is sometimes the operator will place two different sizes as a pair ). Select a method to solve this poroblem. The [dataset](https://dhvani365-my.sharepoint.com/:f:/g/personal/nithin_v_dhvaniai_com/EvY9yo7sFJxMpconseQHcJ4B1HUHReaLYtmeHwF6orIXnQ?e=VwqeqA)
  
 
 ## Email Your github repo to : hr@dhvaniai.com 
