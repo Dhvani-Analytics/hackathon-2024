@@ -29,13 +29,14 @@ Write an algorithm that will detect the defect in the images given below. Breaku
 
 <img src=dataset1/defect2.png width="20%" height="20%"> <img src=dataset1/defect3.png width="20%" height="20%">
 
-* [dataset](https://github.com/Dhvani-Analytics/hackathon-2024/tree/a4f204e8f76f472631d2f9d2902931937f3e0f63/dataset2)
+* [dataset](https://github.com/Dhvani-Analytics/hackathon-2024/tree/a4f204e8f76f472631d2f9d2902931937f3e0f63/dataset1)
 
 ## Problem:2 
 In manufacturing companies the production lines are optimised for creating good samples while defective samples are very hard to generate and will happen only once in a while. To adress this issue we have to develop quality inspection system from golden samples. In this problem we have given a train dataset of a screw where good samples conists of 2 screws of different length and 4 nuts. Design a anomaly model which can detect both logical and structural changes in the data
 <img src=dataset2/train/good/000.png width="20%" height="20%">
 
-* Refer the datset2 folder 
+* [dataset](https://github.com/Dhvani-Analytics/hackathon-2024/tree/a4f204e8f76f472631d2f9d2902931937f3e0f63/dataset2)
+
 
 ## Problem 3 
  A footwear company requires to detect the size mismatch of the their pair of footwear(that is sometimes the operator will place two different sizes as a pair ). Select a method to solve this poroblem. The [dataset](https://dhvani365-my.sharepoint.com/:f:/g/personal/nithin_v_dhvaniai_com/EvY9yo7sFJxMpconseQHcJ4B1HUHReaLYtmeHwF6orIXnQ?e=VwqeqA)
